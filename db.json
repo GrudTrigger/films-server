@@ -1,0 +1,29 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "favoriteMovies": [
+          {
+            "movieId": 101,
+            "title": "Фильм 1",
+            "year": 2022
+          },
+          {
+            "movieId": 102,
+            "title": "Фильм 2",
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "favoriteMovies": [
+          {
+            "movieId": 103,
+            "title": "Фильм 3",
+            "year": 2021
+          }
+        ]
+      }
+    ]
+  }
